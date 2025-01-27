@@ -29,5 +29,5 @@
 ### Download
 Use git clone to get Gopust
 ```bash
-git clone https://pust-lang/gopust
+git clone https://github.com/Pust-Lang/gopust
 ```
