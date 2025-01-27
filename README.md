@@ -9,5 +9,5 @@
 - **Info**: When creating the package for pust, please program it into pust, python is also ok
 
 ### How to setup
-- **1.** Get Gopust, and load it up to program in Pust
+- **1.** Get Gopust, and load it up to program. (Use Pust to program)
 - **2.** 
