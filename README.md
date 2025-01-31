@@ -1,7 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/1b5b5684-1cdc-4d1b-98df-7c73a56bf789)
 
 
-<h1 align="center"> geodate </h1>
+<h1 align="center">  </h1>
 <p align="center"> How to use | About | How to setup | Download </p>
 <br><br>
 
